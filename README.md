@@ -12,7 +12,7 @@
 
 <a href="https://github.com/natuki53/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/natuki53/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=natuki53&column=10&theme=flat&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=natuki53&column=10&theme=nord&no-frame=true"/>
 </a>
 
 ---

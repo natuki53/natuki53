@@ -18,7 +18,11 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=natuki53&count_private=true&include_all_commits=true" alt="natuki53's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natuki53&layout=compact" alt="Most used languages chart" />
-</div>
+  <img height="170" align="left"
+       src="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true"
+       alt="natuki53's GitHub stats" />
 
+  <img
+       src="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact"
+       alt="Most used languages chart" />
+</div>

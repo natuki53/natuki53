@@ -39,31 +39,16 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-  <!-- Dark -->
-  <img
-    height="170"
-    src="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord"
-    alt="natuki53 GitHub Stats (dark)"
-  />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default" />
+    <img height="170" src="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord" alt="natuki53 GitHub Stats" />
+  </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    height="170"
-    src="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=nord"
-    alt="Most Used Languages (dark)"
-  />
-
-  <!-- Light -->
-  <div>
-    <img
-      height="0"
-      src="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default"
-      alt=""
-    />
-    <img
-      height="0"
-      src="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=default"
-      alt=""
-    />
-  </div>
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=nord" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=default" />
+    <img height="170" src="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=nord" alt="Most Used Languages" />
+  </picture>
+</p>

@@ -43,12 +43,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord" />
     <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default" />
-    <img height="170" src="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord" alt="natuki53 GitHub Stats" />
+    <img height="170" src="https://gh-stats.mu-natuki.com/api?username=natuki53&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord&v2" alt="natuki53 GitHub Stats" />
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=nord" />
     <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=default" />
-    <img height="170" src="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=nord" alt="Most Used Languages" />
+    <img height="170" src="https://gh-stats.mu-natuki.com/api/top-langs?username=natuki53&layout=compact&hide_border=true&theme=nord&v2" alt="Most Used Languages" />
   </picture>
 </p>

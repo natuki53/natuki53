@@ -11,6 +11,9 @@
   <a href="https://x.com/mu_natuki">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://mu-natuki.com/">
+    <img src="https://img.shields.io/badge/Website-555555?style=for-the-badge" />
+  </a>
 </div>
 
 <br /><br />
